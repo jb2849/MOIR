@@ -10,7 +10,7 @@ Junchi Bin, MASc
 Ph.D. Student at School of Engineering, University of British Columbia, Okanagan Campus
 
 
-## VI-Thermal
+## Visible-Thermal
 ### Car
 <img src="car.gif" width="400px">
 

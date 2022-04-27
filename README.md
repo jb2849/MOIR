@@ -1,9 +1,10 @@
 
 # MOIR
-Some rough dynamic examples of MOIR as shown below images. 
-The codes may release as an encrypted software in future depending on the confidential requirements from authorities.
+Some rough dynamic examples of MOIR as shown below images.
+The examples are scratched by some intermediate results during the optimization. 
+The source codes may release as original scripts or as an encrypted software in future depending on the confidential requirements from authorities.
 
-This repo is created by
+# Author
 
 Junchi Bin, MASc
 

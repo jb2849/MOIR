@@ -8,6 +8,9 @@ Some dynamic examples of MOIR as shown below
 ### CVC14
 <img src="CVC14.gif" width="400px">
 
+### CVC15
+<img src="CVC15.gif" width="400px">
+
 ### FLIR
 <img src="FLIR.gif" width="400px">
 

@@ -5,9 +5,9 @@ The codes may release as an encrypted software in future depending on the confid
 
 This repo is created by
 
-Junchi Bin
+Junchi Bin, MASc
 
-School of Engineering, University of British Columbia, Okanagan Campus
+Ph.D. Student at School of Engineering, University of British Columbia, Okanagan Campus
 
 
 ## VI-Thermal

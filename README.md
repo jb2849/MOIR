@@ -1,5 +1,5 @@
 # MOIR
-Some dynamic examples of MOIR as shown below
+# Some dynamic examples of MOIR as shown below
 ![](https://github.com/jb2849/MOIR/car.gif)
 ![](https://github.com/jb2849/MOIR/CVC14.gif)
 ![](https://github.com/jb2849/MOIR/flash.gif)

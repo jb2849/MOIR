@@ -17,7 +17,7 @@ Some dynamic examples of MOIR as shown below
 ### Simulation
 <img src="simulation.gif" width="400px">
 
-## Other Type
+## Other Types
 ### NIR
 <img src="nir.gif" width="400px">
 

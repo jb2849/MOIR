@@ -1,5 +1,6 @@
 # MOIR
-Some dynamic examples of MOIR as shown below
+Some dynamic examples of MOIR as shown below images. 
+The codes may release as a encrypted software in future depending on the confidential requirements from authorities. 
 
 ## VI-Thermal
 ### Car

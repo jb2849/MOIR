@@ -15,17 +15,20 @@ Some dynamic examples of MOIR as shown below
 <img src="simulation.gif" width="400px">
 
 ## Other Type
+### NIR
+<img src="nir.gif" width="400px">
+
+### Multispectral
+<img src="ms.gif" width="400px">
+
 ### Flash
 <img src="flash.gif" width="400px">
 
 ### Medical
 <img src="medical.gif" width="400px">
 
-### Multispectral
-<img src="ms.gif" width="400px">
 
-### NIR
-<img src="nir.gif" width="400px">
+
 
 
 

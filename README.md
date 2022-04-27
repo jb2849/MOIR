@@ -1,6 +1,7 @@
 # MOIR
 Some dynamic examples of MOIR as shown below
 ![](https://github.com/jb2849/MOIR/car.gif)
+<img src="car.gif" width="200px">
 
 ![](https://github.com/jb2849/MOIR/CVC14.gif)
 

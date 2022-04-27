@@ -1,33 +1,33 @@
 # MOIR
 Some dynamic examples of MOIR as shown below
 
-# VI-Thermal
-## Car
+## VI-Thermal
+### Car
 <img src="car.gif" width="300px">
 
-## CVC14
+### CVC14
 <img src="CVC14.gif" width="300px">
 
-## FLIR
+### FLIR
 <img src="FLIR.gif" width="300px">
 
-## Simulation
+### Simulation
 <img src="simulation.gif" width="300px">
 
-# Other Type
-## Flash
+## Other Type
+### Flash
 <img src="flash.gif" width="300px">
 
-## Lenna
+### Lenna
 <img src="lenna.gif" width="300px">
 
-## Medical
+### Medical
 <img src="medical.gif" width="300px">
 
-## Multispectral
+### Multispectral
 <img src="ms.gif" width="300px">
 
-## NIR
+### NIR
 <img src="nir.gif" width="300px">
 
 

@@ -18,7 +18,7 @@ Ph.D. Student at School of Engineering, University of British Columbia, Okanagan
 ### Simulation
 <img src="simulation.gif" width="400px">
 
-<img src="simulation.gif" width="400px">
+<img src="simulation2.gif" width="400px">
 
 ### CVC14
 <img src="CVC14.gif" width="400px">

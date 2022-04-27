@@ -30,6 +30,8 @@ Ph.D. Student at School of Engineering, University of British Columbia, Okanagan
 
 
 ## Other Types
+We also try our method on some examples beyond visible and thermal imaging. We may consider to extend the method in future work. 
+
 ### NIR
 <img src="nir.gif" width="400px">
 
@@ -41,6 +43,9 @@ Ph.D. Student at School of Engineering, University of British Columbia, Okanagan
 
 ### Medical
 <img src="medical.gif" width="400px">
+
+### Lenna
+<img src="lenna.gif" width="400px">
 
 
 

@@ -6,9 +6,12 @@ The source codes may release as original scripts or as an encrypted software in 
 
 # Repo Creator
 
-Junchi Bin, MASc
+Junchi Bin, MASc 
+
+Intelligent Sensing, Diagnostics, and Prognostics Research Lab
 
 Ph.D. Student at School of Engineering, University of British Columbia, Okanagan Campus
+
 
 
 ## Visible-Thermal

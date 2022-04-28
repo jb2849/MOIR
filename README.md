@@ -12,7 +12,7 @@ Intelligent Sensing, Diagnostics, and Prognostics Research Lab
 
 Ph.D. Student at School of Engineering, University of British Columbia, Okanagan Campus
 
-
+junchi.bin@ubc.ca
 
 ## Visible-Thermal
 ### Car

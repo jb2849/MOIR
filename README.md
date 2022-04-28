@@ -18,18 +18,17 @@ junchi.bin@ubc.ca
 ### Car
 <img src="car.gif" width="400px">
 
-### Simulation
+### Controlled
 <img src="simulation.gif" width="400px">
 
 <img src="simulation2.gif" width="400px">
 
-### CVC14
+### Real-World
 <img src="CVC14.gif" width="400px">
 
-### CVC15
+
 <img src="CVC15.gif" width="400px">
 
-### FLIR
 <img src="FLIR.gif" width="400px">
 
 
